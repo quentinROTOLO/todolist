@@ -7,8 +7,7 @@ data class Todo(
     val id: Int,
     val title: String,
     val description: Description,
-    val deadline: LocalDateTime?,
-)
-/**
-data class TodoList(val value: String)
- */
+    val deadline: LocalDateTime?
+    )
+
+/** data class TodoList(val value: String)  */

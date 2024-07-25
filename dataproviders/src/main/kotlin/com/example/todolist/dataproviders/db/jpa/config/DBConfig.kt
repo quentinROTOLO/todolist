@@ -1,4 +1,4 @@
-package com.example.todolist.dataproviders.db.jpa
+package com.example.todolist.dataproviders.db.jpa.com.example.todolist.dataproviders.db.jpa.config
 
 import org.springframework.boot.autoconfigure.domain.EntityScan
 import org.springframework.context.annotation.Configuration
