@@ -3,6 +3,3 @@ plugins {
 }
 rootProject.name = "todolist"
 include("core")
-include("dataproviders")
-include("delivery")
-include("usecases")
